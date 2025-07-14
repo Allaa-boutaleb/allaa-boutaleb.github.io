@@ -1,8 +1,11 @@
 ---
 title: "AI Research Intern @ RTE France | 03/24 - 07/24 | Paris, FR"
-excerpt: "Developed and deployed BERTrend, a novel framework leveraging neural topic modeling to detect and monitor emerging trends and weak signals in large-scale text corpora for France's electricity transmission operator.<br/><img src='/images/rte-france.png'> width='500'"
+excerpt: "Developed and deployed BERTrend, a novel framework leveraging neural topic modeling to detect and monitor emerging trends and weak signals in large-scale text corpora for France's electricity transmission operator.<br/><img src='/images/rte-france.png' width='500'>"
 collection: portfolio
 ---
+
+
+
 
 During my research internship at RTE, France's electricity transmission system operator, I was embedded within the Data Science and Artificial Intelligence (DS-AI) team. The primary challenge was to enhance RTE's strategic monitoring capabilities by developing advanced methods to automatically process and analyze massive volumes of textual data from news and social media.
 
