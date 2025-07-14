@@ -10,9 +10,11 @@ redirect_from:
 
 ## About Me
 
+<div style="text-align: justify;">
 I'm a PhD candidate at Sorbonne University's LIP6 lab in Paris. My work lives at the crossroads of Machine Learning, Natural Language Processing, and Data Management. I'm driven by a central philosophy: In an age of information overload, how can we build intelligent systems that not only find data but maximize *exploiting* it?
 
 My research focuses on developing novel methods for **table representation learning**. In simple terms, I teach computers how to make sense of the vast, complex, and often chaotic tables of data that form the backbone of modern data lakes. The goal is to create AI that can automate the difficult tasks of data discovery and integration (like table union & join search, as well as table reclamation), ultimately helping us uncover deeper insights and maximize the value of the information we collect.
+</div>
 
 ### Affiliation and Supervision
 
