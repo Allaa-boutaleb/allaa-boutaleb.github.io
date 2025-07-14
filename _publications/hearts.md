@@ -20,7 +20,7 @@ Recent related table search methods leverage tabular representation learning and
 # Citation
 ```bibtex
 @inproceedings{boutaleb2025hearts,
-  title={{HEARTS}: Hypergraph-based Related Table Search},
+  title={HEARTS: Hypergraph-based Related Table Search},
   author={Allaa Boutaleb and Alaa Almutawa and Bernd Amann and Rafael Angarita and Hubert Naacke},
   booktitle={ELLIS workshop on Representation Learning and Generative Models for Structured Data},
   year={2025},
