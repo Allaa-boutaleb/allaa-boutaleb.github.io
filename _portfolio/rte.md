@@ -17,8 +17,6 @@ RTE operates over 100,000 km of critical electrical infrastructure and must stay
 
 To address this, I developed **BERTrend**, a novel framework for detecting and monitoring emerging trends in large, evolving text corpora. BERTrend leverages the power of neural topic modeling in an online learning setting to dynamically identify and classify topics.
 
-![alt text](image.png)
-
 The core methodology is as follows:
 
 1.  **Neural Topic Modeling**: At its heart, BERTrend uses **BERTopic**, a state-of-the-art topic modeling technique. It processes incoming documents in time-based batches (e.g., daily or weekly). For each batch, it uses the `all-mpnet-base-v2` sentence transformer to generate contextual document embeddings.
