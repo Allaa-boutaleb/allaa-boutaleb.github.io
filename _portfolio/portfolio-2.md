@@ -30,11 +30,18 @@ Beyond foundational models, I designed and engineered a multi-agent interface to
 
 ### Current Status
 
-While I remain a co-founder, my day-to-day involvement has been reduced as I now focus on my PhD research obligations at Sorbonne University.
+As of today, my day-to-day involvement in Sujet AI has been reduced as I now focus on my PhD research obligations at Sorbonne University.
+
+### Links
+
+* **Website**: [sujet.ai](https://sujet.ai/)
+* **Hugging Face**: [huggingface.co/sujet-ai](https://huggingface.co/sujet-ai)
+* **LinkedIn**: [linkedin.com/company/sujet-ai](https://www.linkedin.com/company/sujet-ai/)
+
 
 ### Tools and Technologies
 
 * **Programming Language**: Python
-* **Core Libraries**: PyTorch, Hugging Face (Transformers, Datasets, Accelerate), LangChain
+* **Core Libraries**: PyTorch, Hugging Face (Transformers, Datasets, Accelerate), LangChain, LlamaIndex
 * **Models**: LLMs (Llama 3), VLMs (Florence-2), Sentence Transformers (SBERT)
 * **Infrastructure**: Hugging Face Hub (for model and dataset hosting)
