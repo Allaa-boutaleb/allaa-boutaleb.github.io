@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Allaa Boutaleb"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ I'm an AI researcher and a PhD candidate at Sorbonne University's LIP6 lab in Pa
 
 My research focuses on developing novel methods for **table representation learning**. In simple terms, I teach computers how to make sense of the vast, complex, and often chaotic tables of data that form the backbone of modern data lakes. The goal is to create AI that can automate the difficult tasks of data discovery and integration (like table union & join search, as well as table reclamation), ultimately helping us uncover deeper insights and maximize the value of the information we collect.
 
-#### Affiliation and Supervision
+### Affiliation and Supervision
 
 * **Laboratory:** I am a member of the [LIP6 Database Research Team](https://bd.team.lip6.fr/en/site/start).
 * **Supervisors:** My PhD is supervised by Professors Bernd Amann and Hubert Naacke, and Assistant Professor Rafael Angarita.
