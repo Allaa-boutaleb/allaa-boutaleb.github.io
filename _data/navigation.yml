@@ -27,7 +27,7 @@ main:
     url: /files/cv.pdf
 
   - title: "LIP6 Database Team"
-    url: https://bd.team.lip6.fr/en/site/start
+    url: "https://bd.team.lip6.fr/en/site/start"
     
   # - title: "CV"
   #   url: /cv-json/
