@@ -1,6 +1,6 @@
 ---
 title: "AI Research Intern @ RTE France"
-excerpt: "Developed and deployed BERTrend, a novel framework leveraging neural topic modeling to detect and monitor emerging trends and weak signals in large-scale text corpora for France's electricity transmission operator.<br/><img src='/images/rte-france.png'>"
+excerpt: "Developed and deployed BERTrend, a novel framework leveraging neural topic modeling to detect and monitor emerging trends and weak signals in large-scale text corpora for France's electricity transmission operator.<br/><img src='/images/rte-france.png'> width='500'"
 collection: portfolio
 ---
 
