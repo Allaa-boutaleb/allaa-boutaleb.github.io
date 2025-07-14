@@ -1,6 +1,6 @@
 ---
 title: "Research Assistant @ LIP6 | 06/23 - 09/23 | Paris, FR"
-excerpt: "Conducted extensive investigations into the Aligned Neural Topic Model (ANTM), a novel dynamic topic modeling framework. Proposed and developed a methodology for detecting scientific paradigm shifts in large text archives using ANTM's topic evolution capabilities.<br/><img src='/images/lip6.png' height='300'>"
+excerpt: "Conducted extensive investigations into the Aligned Neural Topic Model (ANTM), a novel dynamic topic modeling framework. Proposed and developed a methodology for detecting scientific paradigm shifts in large text archives using ANTM's topic evolution capabilities.<br/><img src='/images/lip6.png' width='500'>"
 collection: portfolio
 ---
 
