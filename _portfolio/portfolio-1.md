@@ -5,7 +5,14 @@ collection: portfolio
 ---
 
 
-
+[![rte-france - BERTrend](https://img.shields.io/static/v1?label=rte-france&message=BERTrend&color=blue&logo=github)](https://github.com/rte-france/BERTrend "Go to GitHub repo")
+[![stars - BERTrend](https://img.shields.io/github/stars/rte-france/BERTrend?style=social)](https://github.com/rte-france/BERTrend)
+[![forks - BERTrend](https://img.shields.io/github/forks/rte-france/BERTrend?style=social)](https://github.com/rte-france/BERTrend)
+[![issues - BERTrend](https://img.shields.io/github/issues/rte-france/BERTrend)](https://github.com/rte-france/BERTrend/issues)
+[![Downloads](https://pepy.tech/badge/bertrend)](https://pepy.tech/project/bertrend)
+[![PyPi_Version](https://img.shields.io/pypi/v/bertrend.svg)](https://pypi.org/project/bertrend/)
+![Static Badge](https://img.shields.io/badge/python-%3E%3D3.12-blue)
+![GitHub License](https://img.shields.io/github/license/rte-france/BERTrend)
 
 During my research internship at RTE, France's electricity transmission system operator, I was embedded within the Data Science and Artificial Intelligence (DS-AI) team. The primary challenge was to enhance RTE's strategic monitoring capabilities by developing advanced methods to automatically process and analyze massive volumes of textual data from news and social media.
 
@@ -17,7 +24,7 @@ RTE operates over 100,000 km of critical electrical infrastructure and must stay
 
 To address this, I developed **BERTrend**, a novel framework for detecting and monitoring emerging trends in large, evolving text corpora. BERTrend leverages the power of neural topic modeling in an online learning setting to dynamically identify and classify topics.
 
-![alt text](bertrend.png)
+![BERTrend pipeline](images/bertrend.png/)
 
 The core methodology is as follows:
 
