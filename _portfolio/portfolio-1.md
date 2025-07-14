@@ -1,6 +1,6 @@
 ---
 title: "AI Research Intern @ RTE France | 03/24 - 07/24 | Paris, FR"
-excerpt: "Developed and deployed BERTrend, a novel framework leveraging neural topic modeling to detect and monitor emerging trends and weak signals in large-scale text corpora for France's electricity transmission operator.<br/><img src='/images/rte-france.png' width='500'>"
+excerpt: "Developed and deployed BERTrend, a novel framework leveraging neural topic modeling to detect and monitor emerging trends and weak signals in large-scale text corpora for France's electricity transmission operator.<br/><img src='/images/rte-france.png' width='800'>"
 collection: portfolio
 ---
 
@@ -16,6 +16,8 @@ RTE operates over 100,000 km of critical electrical infrastructure and must stay
 ### The Solution: BERTrend
 
 To address this, I developed **BERTrend**, a novel framework for detecting and monitoring emerging trends in large, evolving text corpora. BERTrend leverages the power of neural topic modeling in an online learning setting to dynamically identify and classify topics.
+
+![alt text](../images/bertrend.png)
 
 The core methodology is as follows:
 
