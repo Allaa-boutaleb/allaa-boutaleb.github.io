@@ -29,24 +29,16 @@ My research focuses on developing novel methods for **table representation learn
 
 ## Experience and Contributions
 
-<div style="text-align: justify;">
 Before diving deep into my PhD, I gained valuable experience applying these concepts in the real world. As a co-founder and AI Engineer at **Sujet AI**, I led the development of open-source foundational models (LLMs, VLMs) and specialized datasets to democratize financial analysis. At **RTE**, France's national electricity operator, I designed and deployed a system called BERTrend to detect emerging trends and weak signals from social media, helping to anticipate real-world events. My research journey began at **LIP6**, where I investigated how advanced topic models could be used to automatically identify major paradigm shifts in scientific literature.
-</div>
 
-<div style="text-align: justify;">
 Through these roles, I've had the opportunity to build and contribute to tools that make data more accessible and interpretable, a theme that continues to drive my current research.
-</div>
 
 ## Hobbies and Interests
-<div style="text-align: justify;">
+
 When I'm not training models or wrangling data, I'm usually immersed in a different kind of world. I'm an avid gamer with a deep appreciation for rich, story-driven single-player experiences. There's nothing quite like getting lost in a masterfully crafted narrative. I'm also a huge film buff, with a particular soft spot for thrillers that make you think long after the credits roll.
-</div>
 
-<div style="text-align: justify;">
 Fluent in English 🇺🇸, French 🇫🇷, and Arabic 🇩🇿, I love exploring the world with my wife. And when we're home, our time is happily managed by our cats 😸
-</div>
 
-<div style="text-align: justify;">
 Here are a few of my all-time favorites:
 
 * **Games:** *Red Dead Redemption 2, Silent Hill 2, The Last of Us, Cyberpunk 2077*
@@ -54,4 +46,3 @@ Here are a few of my all-time favorites:
 * **Music:** My playlists are an eclectic mix of Heavy Metal, Hip Hop, and Drum & Bass.
 
 If you happen to share any of these interests, we'll have plenty to talk about (aside from work related stuff) while cracking open a cold one!
-</div>
