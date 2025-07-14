@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## ABOUT ME
+## About Me
 
 I'm a PhD candidate at Sorbonne University's LIP6 lab in Paris. My work lives at the crossroads of Machine Learning, Natural Language Processing, and Data Management. I'm driven by a central philosophy: In an age of information overload, how can we build intelligent systems that not only find data but maximize *exploiting* it?
 
@@ -21,13 +21,13 @@ My research focuses on developing novel methods for **table representation learn
 
 ![Database Team @ LIP6](team.jpg)
 
-## EXPERIENCE & CONTRIBUTIONS
+## Experience and Contributions
 
 Before diving deep into my PhD, I gained valuable experience applying these concepts in the real world. As a co-founder and AI Engineer at **Sujet AI**, I led the development of open-source foundational models (LLMs, VLMs) and specialized datasets to democratize financial analysis. At **RTE**, France's national electricity operator, I designed and deployed a system called BERTrend to detect emerging trends and weak signals from social media, helping to anticipate real-world events. My research journey began at **LIP6**, where I investigated how advanced topic models could be used to automatically identify major paradigm shifts in scientific literature.
 
 Through these roles, I've had the opportunity to build and contribute to tools that make data more accessible and interpretable, a theme that continues to drive my current research.
 
-## HOBBIES & INTERESTS
+## Hobbies and Interests
 
 When I'm not training models or wrangling data, I'm usually immersed in a different kind of world. I'm an avid gamer with a deep appreciation for rich, story-driven single-player experiences. There's nothing quite like getting lost in a masterfully crafted narrative. I'm also a huge film buff, with a particular soft spot for thrillers that make you think long after the credits roll.
 
