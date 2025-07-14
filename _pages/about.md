@@ -7,19 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Of course. Here is a draft for your homepage that weaves together your professional and personal life.
-
-***
-
 ### About Me
 
-Hello! I'm Allaa Boutaleb, an AI researcher and a PhD candidate at Sorbonne University's LIP6 lab in Paris. My work lives at the crossroads of Machine Learning, Natural Language Processing, and Data Management. I'm driven by a central question: In an age of information overload, how can we build intelligent systems that not only find data but truly *understand* it?
+I'm an AI researcher and a PhD candidate at Sorbonne University's LIP6 lab in Paris. My work lives at the crossroads of Machine Learning, Natural Language Processing, and Data Management. I'm driven by a central philosophy: In an age of information overload, how can we build intelligent systems that not only find data but maximize *exploiting* it?
 
-My research focuses on developing novel methods for **table representation learning**. In simple terms, I teach computers how to make sense of the vast, complex, and often chaotic tables of data that form the backbone of modern data lakes. The goal is to create AI that can automate the difficult tasks of data discovery and integration (like table search and reclamation), ultimately helping us uncover deeper insights and maximize the value of the information we collect.
+My research focuses on developing novel methods for **table representation learning**. In simple terms, I teach computers how to make sense of the vast, complex, and often chaotic tables of data that form the backbone of modern data lakes. The goal is to create AI that can automate the difficult tasks of data discovery and integration (like table union & join search, as well as table reclamation), ultimately helping us uncover deeper insights and maximize the value of the information we collect.
+
+[!Database Team @ LIP6](team.jpg)
 
 ### Experience and Contributions
 
-Before diving deep into my PhD, I gained valuable experience applying these concepts in the real world. As a co-founder and AI Engineer at **Sujet AI**, I led the development of open-source foundational models (LLMs, VLMs) and specialized datasets to democratize financial analysis. At **RTE**, France's national electricity operator, I designed and deployed a system called BERTrend to detect emerging trends and weak signals from social media, helping to anticipate real-world events. My research journey began at **LIP6**, where I investigated how advanced topic models like ANTM could be used to automatically identify major paradigm shifts in scientific literature.
+Before diving deep into my PhD, I gained valuable experience applying these concepts in the real world. As a co-founder and AI Engineer at **Sujet AI**, I led the development of open-source foundational models (LLMs, VLMs) and specialized datasets to democratize financial analysis. At **RTE**, France's national electricity operator, I designed and deployed a system called BERTrend to detect emerging trends and weak signals from social media, helping to anticipate real-world events. My research journey began at **LIP6**, where I investigated how advanced topic models could be used to automatically identify major paradigm shifts in scientific literature.
 
 Through these roles, I've had the opportunity to build and contribute to tools that make data more accessible and interpretable, a theme that continues to drive my current research.
 
@@ -35,4 +33,4 @@ Here are a few of my all-time favorites:
 * **Movies:** *12 Angry Men, Prisoners, There Will Be Blood, Manchester by the Sea, The Lighthouse*
 * **Music:** My playlists are an eclectic mix of Heavy Metal, Hip Hop, and Drum & Bass.
 
-If you happen to share any of these interests, we'll have plenty to talk about (aside from work) while cracking open a cold one!
+If you happen to share any of these interests, we'll have plenty to talk about (aside from work related stuff) while cracking open a cold one!
