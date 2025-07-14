@@ -8,7 +8,7 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
+  - title: "PUBLICATIONS"
     url: /publications/
 
   # - title: "Talks"
@@ -17,7 +17,7 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Experience"
+  - title: "EXPERIENCE"
     url: /portfolio/
         
   # - title: "Blog Posts"
@@ -26,7 +26,7 @@ main:
   - title: "CV"
     url: /files/cv.pdf
 
-  - title: "LIP6 Database Team"
+  - title: "LIP6 DATABASE TEAM"
     url: https://bd.team.lip6.fr/en/site/start
     
   # - title: "CV"
