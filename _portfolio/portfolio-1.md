@@ -24,7 +24,7 @@ RTE operates over 100,000 km of critical electrical infrastructure and must stay
 
 To address this, I developed **BERTrend**, a novel framework for detecting and monitoring emerging trends in large, evolving text corpora. BERTrend leverages the power of neural topic modeling in an online learning setting to dynamically identify and classify topics.
 
-![BERTrend pipeline](images/bertrend.png/)
+![BERTrend pipeline](bertrend.png)
 
 The core methodology is as follows:
 
