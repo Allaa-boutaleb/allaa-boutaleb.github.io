@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Something's Fishy in the Data Lake: A Critical Re-evaluation of Table Union Search Benchmarks"
 collection: publications
 category: conferences
@@ -13,4 +13,4 @@ codeurl: 'https://github.com/Allaa-boutaleb/fishy-tus'
 citation: "Boutaleb, A., Amann, B., Naacke, H., & Angarita, R. (2025). Something's Fishy In The Data Lake: A Critical Re-evaluation of Table Union Search Benchmarks. Proceedings of Table Representation Learning Workshop @ ACL 2025."
 
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font. -->
