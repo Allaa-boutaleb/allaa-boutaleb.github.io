@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "dark"
-title                    : "Homepage"
+title                    : "Allaa Boutaleb"
 title_separator          : "-"
 name                     : &name "Allaa Boutaleb"
 description              : &description "PhD candidate at Sorbonne University's LIP6 lab"

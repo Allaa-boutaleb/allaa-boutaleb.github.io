@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Allaa Boutaleb"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
