@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpeg"
+  avatar           : "profile.jpeg"
   name             : "Allaa Boutaleb"
   pronouns         : "He/Him"  
   bio              : "I'm a PhD candidate at Sorbonne University's LIP6 lab, where I build AI to navigate massive data lakes. My research focuses on table representation learning, as well as data discovery and integration in large-scale data lakes."
