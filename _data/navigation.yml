@@ -23,8 +23,8 @@ main:
   - title: "Updates"
     url: /year-archive/
     
-  - title: "CV"
-    url: /files/cv.pdf
+  # - title: "CV"
+  #   url: /files/cv.pdf
 
   - title: "LIP6 Database Team"
     url: "https://bd.team.lip6.fr/en/site/start"
