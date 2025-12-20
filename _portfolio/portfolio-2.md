@@ -1,5 +1,5 @@
 ---
-title: "AI Engineer @ Sujet AI | 11/23 - Present | Paris, FR"
+title: "AI Engineer @ Sujet AI | 11/23 - 03/25 | Paris, FR"
 excerpt: "Co-founded Sujet AI, a startup democratizing financial analysis. Led the development and open-sourcing of foundational models (LLMs, VLMs, Embeddings) and large-scale datasets. Engineered a multi-agent system for advanced document analysis.<br/><img src='/images/sujet-ai.svg' width='500'>"
 collection: portfolio
 ---
